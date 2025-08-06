@@ -15,15 +15,8 @@
 
 ## 快速开始
 
-### 1. 添加依赖
+### 1. 引用该框架
 
-```xml
-<dependency>
-    <groupId>cn.tjh666</groupId>
-    <artifactId>httpFramework</artifactId>
-    <version>1.0.0</version>
-</dependency>
-```
 
 ### 2. 创建控制器
 
